@@ -2,7 +2,7 @@
 
 ### 🎰 Welcome to Hermes Casino's GitHub Repository!
 
-👋 Hi, We are H=**Hermes Casino**, and I'm here to bring you the future of crypto gaming!
+👋 Hi, We are **Hermes Casino**, and I'm here to bring you the future of crypto gaming!
 
 🎲 What We're All About:
 - 🚀 We're pioneering GambleFi on the BitRock blockchain.
