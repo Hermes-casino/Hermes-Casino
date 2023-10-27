@@ -1,11 +1,8 @@
-### Hi there 👋
 
-<!--
-**Hermes-casino/Hermes-Casino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🎰 Welcome to Hermes Casino's GitHub Repository!
+### 🎰 Welcome to Hermes Casino's GitHub Repository!
 
-👋 Hi, I’m @HermesCasino, and I'm here to bring you the future of crypto gaming!
+👋 Hi, We are H=**Hermes Casino**, and I'm here to bring you the future of crypto gaming!
 
 🎲 What We're All About:
 - 🚀 We're pioneering GambleFi on the BitRock blockchain.
